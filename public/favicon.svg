@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Certily">
+  <rect width="32" height="32" rx="8" fill="#14172E"/>
+  <path d="M22.5 10.2a8 8 0 1 0 0 11.6" fill="none" stroke="#57F0EE" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="23.2" cy="16" r="1.6" fill="#8A7BBB"/>
+</svg>
